@@ -1,5 +1,5 @@
 /**
- * Author: Yimeng Zhao  
+ * Author: Yimeng Zhao
  *         yimeng@huskers.unl.edu
  * Date: 2020/8/18
  *
@@ -12,6 +12,6 @@
 int main(int argc, char **argv) {
 
   printf("Yimeng Zhao\n");
-
+  printf("Major:Finance and Math\n")
   return 0;
 }
