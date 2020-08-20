@@ -12,6 +12,6 @@
 int main(int argc, char **argv) {
 
   printf("Yimeng Zhao\n");
-  printf("Major:Finance and Math\n")
+  printf("Major:Finance and Math\n");
   return 0;
 }
